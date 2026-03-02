@@ -137,9 +137,3 @@ footer{
     right: 50px;
 }
 
-.logoN .background-image{
-    position: absolute;
-    width: 20%;
-    right: 20%;
-    z-index: 10;
-}
